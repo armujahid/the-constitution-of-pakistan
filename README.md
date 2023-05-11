@@ -10,11 +10,13 @@ The Constitution has changed over time. This repo aims to track all those change
 
 ## TODO
 * [ ] Add a proper license
-* [ ] Maintain history as md files in history directory
-* [ ] Add all officially published pdfs in compiled directory 
+* [ ] Add constitution as md file(s) in `history` directory (Single commit for each amendment)
+* [ ] Add all officially published files in `compiled` directory 
 
-## Credits/Sources
-* https://pakistancode.gov.pk
+## Sources
 * https://na.gov.pk
+* https://pakistancode.gov.pk
 * https://en.wikipedia.org/wiki/Constitution_of_Pakistan
+
+## Credits
 * https://github.com/prince-mishra/the-constitution-of-india
