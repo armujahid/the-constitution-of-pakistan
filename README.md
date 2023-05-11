@@ -1,8 +1,8 @@
 # The Constitution of Pakistan
 
 > **Warning**
-> This is currently in WIP status.
-> 
+> This project is currently a Work In Progress (WIP) and may be subject to significant changes. Please use with caution.
+
 The Constitution of Pakistan, with each amendment as a commit.
 
 ## Objective
